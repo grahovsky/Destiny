@@ -35,6 +35,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		B500939A221C8F3B00307DB9 /* Supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				B53FC715221C87CD0046D946 /* Info.plist */,
+			);
+			path = "Supporting files";
+			sourceTree = "<group>";
+		};
 		B53FC6FD221C87CC0046D946 = {
 			isa = PBXGroup;
 			children = (
@@ -59,7 +67,7 @@
 				B53FC70D221C87CC0046D946 /* Main.storyboard */,
 				B53FC710221C87CD0046D946 /* Assets.xcassets */,
 				B53FC712221C87CD0046D946 /* LaunchScreen.storyboard */,
-				B53FC715221C87CD0046D946 /* Info.plist */,
+				B500939A221C8F3B00307DB9 /* Supporting files */,
 			);
 			path = Destiny;
 			sourceTree = "<group>";
